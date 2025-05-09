@@ -1,1 +1,0 @@
-# Gestor-de-Mantenimiento-de-Vehiculos-para-Talleres-Mecanicos
